@@ -17,6 +17,5 @@
     "psr-4": {
       "KofeinStyle\\Helper\\": "src/Helper"
     }
-  },
-  "minimum-stability": "dev"
+  }
 }
