@@ -1,0 +1,24 @@
+{
+  "name": "kofeinstyle/helpers",
+  "type": "kofeinstyle-helpers",
+  "description": "Helpers library",
+  "keywords": [],
+  "homepage": "",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Maxim Efimov",
+      "email": "efimovmaksim@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "KofeinStyle\\Helper\\": "src/Helper"
+    }
+  },
+  "minimum-stability": "master"
+
+}
