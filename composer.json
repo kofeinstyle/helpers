@@ -19,6 +19,6 @@
       "KofeinStyle\\Helper\\": "src/Helper"
     }
   },
-  "minimum-stability": "master"
+  "minimum-stability": "dev"
 
 }
