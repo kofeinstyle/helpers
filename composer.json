@@ -2,8 +2,7 @@
   "name": "kofeinstyle/helpers",
   "type": "kofeinstyle-helpers",
   "description": "Helpers library",
-  "keywords": [],
-  "homepage": "",
+  "keywords": ["debug", "dump", "helper"],
   "license": "MIT",
   "authors": [
     {
@@ -20,5 +19,4 @@
     }
   },
   "minimum-stability": "dev"
-
 }
