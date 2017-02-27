@@ -32,15 +32,6 @@ class Dumper
     }
 
 
-    public static function consoleOutput($message,$params = [])
-    {
-        if(is_array($message) || is_object($message)){
-            $message = print_r($message,1);
-        }
-        $message = Console::ansiFormat($message, $params);
-        Console::output($message);
-    }
-
     public static function dumpx($value = 'ok')
     {
         self::dump($value);

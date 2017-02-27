@@ -1,13 +1,15 @@
 {
   "name": "kofeinstyle/helpers",
-  "type": "kofeinstyle-helpers",
+  "type": "library",
   "description": "Helpers library",
+  "version": "0.1.1",
   "keywords": ["debug", "dump", "helper"],
   "license": "MIT",
   "authors": [
     {
       "name": "Maxim Efimov",
-      "email": "efimovmaksim@gmail.com"
+      "email": "efimovmaksim@gmail.com",
+      "role": "Developer"
     }
   ],
   "require": {
